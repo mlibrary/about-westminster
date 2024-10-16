@@ -1,7 +1,4 @@
 module.exports = {
-  flags: {
-    THE_FLAG: false
-  },
   siteMetadata: {
     title: `University of Westminster Press`,
     description: `University of Westminster Press`,

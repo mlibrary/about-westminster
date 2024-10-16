@@ -13,17 +13,6 @@ collections:
       - { name: summary, label: Summary }
       - { name: date, label: Published, widget: datetime }
       - { name: body, label: Body, widget: markdown }
-  - name: conferences
-    label: Conferences
-    folder: src/content/conferences
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - { name: templateKey, label: "Template Key", widget: hidden, default: conference }
-      - { name: title, label: Title }
-      - { name: summary, label: Summary }
-      - { name: date, label: Published, widget: datetime }
-      - { name: body, label: Body, widget: markdown }
   - name: books
     label: Books
     folder: src/content/books
@@ -67,27 +56,6 @@ collections:
             widget: object
             fields:
               - { name: text, label: Text, widget: markdown }
-          - name: firstCallToActionSection
-            label: "First Call to Action Section"
-            widget: object
-            fields:
-              - { name: description, label: Description }
-              - { name: buttonUrl, label: "Button URL" }
-              - { name: buttonLabel, label: "Button Label" }
-          - name: secondCallToActionSection
-            label: "Second Call to Action Section"
-            widget: object
-            fields:
-              - { name: description, label: Description }
-              - { name: buttonUrl, label: "Button URL" }
-              - { name: buttonLabel, label: "Button Label" }
-          - name: thirdCallToActionSection
-            label: "Third Call to Action Section"
-            widget: object
-            fields:
-              - { name: description, label: Description }
-              - { name: buttonUrl, label: "Button URL" }
-              - { name: buttonLabel, label: "Button Label" }
       - file: "src/content/about.md"
         name: about
         label: About
@@ -97,10 +65,10 @@ collections:
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/journals.md"
         name: journals
-        label: "Read UVM Journals"
+        label: "Journals"
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: journals-page }
-          - { name: title, label: Read UVM Journals }
+          - { name: title, label: Journals }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/book-proposals.md"
         name: bookProposals
@@ -122,18 +90,32 @@ collections:
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
           - { name: title, label: Contact }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/support-uvm-press.md"
-        name: support
-        label: Support
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: support-page }
-          - { name: title, label: Support }
-          - { name: body, label: Body, widget: markdown }
+          - { name: body, label: Body, widget: markdown }      
       - file: "src/content/publish-with-us.md"
         name: publish
-        label: Publishing Partnerships
+        label: Publish With UWP
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: publish-page }
-          - { name: title, label: Support }
+          - { name: title, label: Publish With UWP }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/research-integrity.md"
+        name: research-integrity
+        label: Research Integrity
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: researchIntegrity-page }
+          - { name: title, label: Research Integrity }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/governance.md"
+        name: governance
+        label: UWP Governance
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: governance-page }
+          - { name: title, label: UWP Governance }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/our-supporters.md"
+        name: our-supporters
+        label: Our Supporters
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: ourSupporters-page }
+          - { name: title, label: Our Supporters }
           - { name: body, label: Body, widget: markdown }
