@@ -1,19 +1,28 @@
+/**
+ * Configure your Gatsby site with this file.
+ *
+ * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
+ */
+
+/**
+ * @type {import('gatsby').GatsbyConfig}
+ */
 module.exports = {
   siteMetadata: {
-    title: `University of Westminster Press`,
-    description: `University of Westminster Press`,
-    author: `University of Westminster Press`,
+    title: `Gatsby Default Starter`,
+    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    author: `@gatsbyjs`,
+    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
+    `gatsby-plugin-image`,
     {
-      // keep as first gatsby-source-filesystem plugin for gatsby image support
-      // for netlify
-      resolve: 'gatsby-source-filesystem',
+      resolve: `gatsby-source-filesystem`,
       options: {
+        name: `assets`,
         path: `${__dirname}/static/assets`,
-        name: 'assets',
       },
-    },    
+    },
     {
       resolve: `gatsby-plugin-gtag`,
       options: {
@@ -28,22 +37,17 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sass`,
       options: {
-        precision: 6
+        implementation: require("node-sass"),        
+        sassOptions: {
+          precision: 6,
+        },
       }
     },
     {
       resolve: `gatsby-plugin-env-variables`,
       options: {
-        whitelist: ["BRANCH"]
+        allowList: ["BRANCH"]
       },
-    },
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-        manualInit: true, // https://github.com/netlify/netlify-cms/issues/1737#issuecomment-530992998 HELIO-3241
-        enableIdentityWidget: false,
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      }
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -69,14 +73,13 @@ module.exports = {
         short_name: `starter`,
         start_url: `/`,
         background_color: `#663399`,
-        theme_color: `#663399`,
+        // This will impact how browsers show your PWA/website
+        // https://css-tricks.com/meta-theme-color-and-trickery/
+        // theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/UWP_IconBLACK.png`, // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-transformer-remark',
       options: {

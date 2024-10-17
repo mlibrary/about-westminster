@@ -1,3 +1,12 @@
+/**
+ * Implement Gatsby's Node APIs in this file.
+ *
+ * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/
+ */
+
+/**
+ * @type {import('gatsby').GatsbyNode['createPages']}
+ */
 const path = require("path");
 const { createFilePath } = require("gatsby-source-filesystem");
 
@@ -57,10 +66,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   })
 }
 
-const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+//const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  fmImagesToRelative(node);
+  //fmImagesToRelative(node);
 
   const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {
