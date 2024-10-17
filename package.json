@@ -30,6 +30,9 @@
     "react-helmet": "^5.2.1",
     "react-markdown": "^4.2.2"
   },
+  "resolutions": {
+    "cheerio": "1.0.0-rc.12"
+  },
   "devDependencies": {
     "prettier": "^1.18.2"
   },
