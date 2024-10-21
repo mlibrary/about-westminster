@@ -9,10 +9,9 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `University of Westminster Press`,
+    description: `University of Westminster Press (UWP) is a digital-first open access publisher of peer reviewed academic books, policy briefs and journals. UWP exists to provide global public access to academic work in multiple formats.`,
+    author: `University of Westminster Press`,    
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -47,6 +46,18 @@ module.exports = {
       resolve: `gatsby-plugin-env-variables`,
       options: {
         allowList: ["BRANCH"]
+      },
+    },
+    {
+      resolve: `gatsby-plugin-decap-cms`,
+      options: {
+        /**
+         * One convention is to place your Decap CMS customization code in a
+         * `src/cms` directory.
+         */
+        manualInit: true, // https://github.com/netlify/netlify-cms/issues/1737#issuecomment-530992998 HELIO-3241
+        enableIdentityWidget: false,
+        modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
     {
