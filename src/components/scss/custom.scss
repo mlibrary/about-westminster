@@ -84,7 +84,7 @@ strong {
 
 
 // links
-p {
+p, ul, li {
   a {
   color: $westminster-link;
   border-bottom: 1px solid $westminster-link;
@@ -360,7 +360,7 @@ p a.btn {
   }
 
   .card:hover {
-    border: 2px solid $westminster-accent-color;
+    border: 3px solid $westminster-light-grey;
   }
 
   .card-image {
@@ -374,6 +374,18 @@ p a.btn {
     font-size: 1.25rem;
   }
 }
+
+.journals {
+  margin-top: 4em;
+
+  h2 {
+    margin-top: 0;
+  }
+  img {
+    border: 2px solid $westminster-light-beige;
+  }
+}
+
 
 // footer
 .footer {
@@ -402,12 +414,19 @@ p a.btn {
       margin-bottom: 15px;
       display: block;
     }
-    .alpsp img, .aeup img {
+    .alpsp img {
       height: 40px;
       display: block;
     }
     .alpsp img {
       margin-bottom: 20px;
+    }
+    .aeup img, .even img {
+      height: 40px;
+      display: inline-block;
+    }
+    .aeup img {
+      margin-right: 10px;
     }
   }
 
