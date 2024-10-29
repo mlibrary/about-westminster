@@ -47,6 +47,7 @@ const Navbar = () => {
                 <a className="dropdown-item" href="/book-proposals">Book Proposals</a>                
                 <a className="dropdown-item" href="/journal-proposals">Journal Proposals</a>
                 <a className="dropdown-item" href="/research-integrity">Research Integrity</a>
+                <a className="dropdown-item" href="/style-guide">Style Guide</a>
               </div>
             </div>
             <a className="nav-link text-dark" href="/news/">News and Events</a>

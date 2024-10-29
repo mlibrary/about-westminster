@@ -119,3 +119,10 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: ourSupporters-page }
           - { name: title, label: Our Supporters }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/style-guide.md"
+        name: style-guide
+        label: Style Guide
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: styleGuide-page }
+          - { name: title, label: Style Guide }
+          - { name: body, label: Body, widget: markdown }
