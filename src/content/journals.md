@@ -64,7 +64,7 @@ title: University of Westminster Press Journals
         <h2>Journal of Deliberative Democracy</h2>
         <p>The <i>Journal of Deliberative Democracy</i> (formerly the <i>Journal of Public Deliberation</i>) publishes articles that shape the course of scholarship on deliberative democracy. It is the forum for the latest thinking, emerging debates, alternative perspectives, as well as critical views on deliberation. The journal welcomes submissions from all theoretical and methodological traditions. It aims to be the platform to broker knowledge between scholars and practitioners of citizen engagement.</p>
         <p>The journal is supported by the newDemocracy Foundation, the Deliberative Democracy Consortium and the International Association for Public Participation. It is hosted at the Centre for Deliberative Democracy and Global Governance at the University of Canberra and co-edited by Hans Asenbaum, University of Canberra, Australia, Sonia Bussu, University of Birmingham, Lucy J. Parry, University of Canberra and Hannah Werner, University of Zurich.</p>
-        <a target="_blank" href="(https://delibdemjournal.org/" class="btn btn-lg btn-secondary">Read <i>Journal of Deliberative Democracy</i></a>
+        <a target="_blank" href="https://delibdemjournal.org/" class="btn btn-lg btn-secondary">Read <i>Journal of Deliberative Democracy</i></a>
     </div>
 </div>
 </div>
