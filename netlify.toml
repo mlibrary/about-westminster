@@ -4,6 +4,42 @@
   functions = "netlify/functions"
   publish = "public"
 
+## redirects for ubiquity site pages to fulcrum site pages
+[[redirects]]
+  from = "/site/journals"
+  to = "/journals"
+  status = 301
+
+[[redirects]]
+  from = "/site/about"
+  to = "/about"
+  status = 301
+
+[[redirects]]
+  from = "/site/books"
+  to = "https://fulcrum.org/westminster"
+  status = 301
+
+[[redirects]]
+  from = "/site/publish"
+  to = "/publish-with-us"
+  status = 301
+
+[[redirects]]
+  from = "/site/book-publishing"
+  to = "/book-proposals"
+  status = 301
+
+[[redirects]]
+  from = "/site/journal-publishing"
+  to = "/journal-proposals"
+  status = 301
+
+[[redirects]]
+  from = "/site/research-integrity"
+  to = "/research-integrity"
+  status = 301
+
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
   #[[redirects]]
