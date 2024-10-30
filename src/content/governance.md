@@ -18,8 +18,6 @@ All UWP's publications are assessed via peer review using specialist expert advi
 ## Editorial Board
 **Professor Pippa Catterall** is Professor of History and Policy at the University of Westminster and Chair of the UWP Editorial Board. She edits the journal *National Identities* and has published extensively on twentieth-century history. Her current research focuses on prime ministers and policy strategy.
 
-**Professor Charles Cui** is Professor of Marketing at the School of Management and Marketing, Westminster Business School. He serves on the Editorial Board of the journal *International Marketing Review* and his work has been published in leading journals, including the *Journal of International Business Studies*, *European Journal of Marketing* and the *Journal of Business Ethics*.
-
 **Dr Adrija Dey** is a UKRI Future Leader Senior Research Fellow in the Schools of Social Sciences and Media and Communications at the University of Westminster. She was previously a lecturer in digital media at the University of Sussex and British Academy post-doctoral research fellow at the Department of Development Studies, SOAS.
 
 **Jenny Evans** is Research Environment and Scholarly Communications Lead at the University of Westminster with previous posts as Research Information Manager at Middlesex University, Liaison Librarian at Imperial College London and in the Library Advisory Services of the State University of Western Australia.
