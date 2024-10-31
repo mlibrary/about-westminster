@@ -112,7 +112,7 @@ const IndexPage = ({data}) => {
           <div className="row mt-4">
             <div className="col-md-12">
               <p className="text-right">
-                <a target="_blank" href="https://fulcrum.org/westminster">Browse our books</a>
+                <a href="https://fulcrum.org/westminster">Browse our books</a>
               </p>
             </div>
           </div>

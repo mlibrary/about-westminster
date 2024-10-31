@@ -36,8 +36,8 @@ const Navbar = () => {
                 <a target="_blank" className="dropdown-item" href="https://issuu.com/uniwestminsterpress/docs/uwp_booklet_a5_awref_final">Press Brochure</a>
               </div>
             </div>
-            <a target="_blank" className="nav-link text-dark" href="https://fulcrum.org/westminster">Books</a>
-            <a target="_blank" className="nav-link text-dark" href="/journals/">Journals</a>
+            <a className="nav-link text-dark" href="https://fulcrum.org/westminster">Books</a>
+            <a className="nav-link text-dark" href="/journals/">Journals</a>
             <div className="dropdown show">
               <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Publish With Us

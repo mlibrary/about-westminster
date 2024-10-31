@@ -20,7 +20,7 @@ const Book = ({cover, book}) => {
             <h3 className="card-title">{title}</h3>
             <p className="card-subtitle text-muted h6">{author}</p>
             <p className="card-text">{description}</p>
-            <a target="_blank" className="card-link btn btn-secondary btn-lg" role="button" href={readLink}>Read free online</a>
+            <a className="card-link btn btn-secondary btn-lg" role="button" href={readLink}>Read free online</a>
           </div>
         </div>
       </div>
