@@ -25,24 +25,24 @@ const Navbar = () => {
         <div className="container">
           <nav className="nav d-flex justify-content-between collapse">
             <div className="dropdown show">
-              <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <button className="nav-link text-dark dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
                 About
-              </a>
-              <div className="dropdown-menu" aria-labelledby="dropdownMenuLink">
+              </button>
+              <div className="dropdown-menu">
                 <a className="dropdown-item" href="/about">About Us</a>                
                 <a className="dropdown-item" href="/governance">UWP Governance</a>
                 <a className="dropdown-item" href="/our-supporters">Our Supporters</a>
                 <a className="dropdown-item" href="/contact">Contact Us</a> 
-                <a target="_blank" className="dropdown-item" href="https://issuu.com/uniwestminsterpress/docs/uwp_booklet_a5_awref_final">Press Brochure</a>
+                <a target="_blank" className="dropdown-item" href="https://issuu.com/uniwestminsterpress/docs/uwp_booklet_a5_awref_final">Press Brochure <img className="external" src="/assets/external-link.png" alt="opens in new tab"/></a>
               </div>
             </div>
             <a className="nav-link text-dark" href="https://fulcrum.org/westminster">Books</a>
             <a className="nav-link text-dark" href="/journals/">Journals</a>
             <div className="dropdown show">
-              <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <button className="nav-link text-dark dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
                 Publish With Us
-              </a>
-              <div className="dropdown-menu" aria-labelledby="dropdownMenuLink">
+              </button>
+              <div className="dropdown-menu">
               <a className="dropdown-item" href="/publish-with-us">Publishing With UWP</a>
                 <a className="dropdown-item" href="/book-proposals">Book Proposals</a>                
                 <a className="dropdown-item" href="/journal-proposals">Journal Proposals</a>

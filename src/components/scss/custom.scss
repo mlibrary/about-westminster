@@ -75,12 +75,13 @@ strong {
 
 
 
-:focus {
+:focus, :focus-visible {
   outline: 3px solid $westminster-highlight;
   outline-offset: 2px;
   -webkit-transition: outline .05s ease-out;
   -o-transition: outline .05s ease-out;
   transition: outline .05s ease-out;
+  outline-color: -webkit-focus-ring-color;
 }
 
 
@@ -98,6 +99,12 @@ p, ul, li {
     background-color: $westminster-link;
     text-decoration: underline; 
   }
+}
+
+a img.external {
+    height: 20px;
+    width: auto;
+    vertical-align: sub;
 }
 
 // buttons
@@ -152,6 +159,21 @@ header {
   box-shadow: 0 2px 5px 0 #afafaf;
   position: relative;
   font-size: 1.1em;
+
+  button {
+    text-transform: uppercase;
+    border: 0;
+    background-color: transparent;
+    min-height: 44px;
+  }
+
+  button:focus {
+      outline: 3px solid $westminster-highlight;
+      outline-offset: 2px;
+      -webkit-transition: outline .05s ease-out;
+      -o-transition: outline .05s ease-out;
+      transition: outline .05s ease-out;
+  }
 
   .dropdown-menu {
     border-radius: 0;
@@ -326,20 +348,6 @@ header {
   }
 }
 
-.blog-card-container a, .blog-card-container .card {
-  background-color: $westminster-light-beige;
-
-  .published {
-    @include futura;
-  }
-}
-
-.blog-card-container a:hover,
-.blog-card-container .card:hover {
-  text-decoration: none;
-}
-
-
 // news and events on homepage and individual pages
 .post-image {
   max-height: 500px;
@@ -390,14 +398,33 @@ header {
   }
 }
 
+.blog-card-container .card {
+  background-color: $westminster-light-beige;
+
+  .published {
+    @include futura;
+  }
+}
+
+.blog-card-container > a:focus,
+.blog-card-container > .card:focus {
+  outline: 3px solid $westminster-highlight;
+  outline-offset: 2px;
+  -webkit-transition: outline .05s ease-out;
+  -o-transition: outline .05s ease-out;
+  transition: outline .05s ease-out;
+  outline-color: -webkit-focus-ring-color;
+}
+
 .event-card-container {
   h3 {
     font-size: 1.25rem;
   }
 }
 
+
+
 .journals {
-  margin-top: 4em;
 
   h2 {
     margin-top: 0;
@@ -501,6 +528,16 @@ header {
     text-indent:-1rem;
   }
 
+}
+
+@media screen and (max-width: 1200px) {
+  .featured .book-card {
+    margin-bottom: 2em;
+  }
+
+  .books-container .book-card:first-child {
+    margin-right: 0;
+  }
 }
 
 @media screen and (max-width: 767px) {
