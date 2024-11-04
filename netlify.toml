@@ -40,6 +40,13 @@
   to = "/research-integrity"
   status = 301
 
+## Redirects for individual books
+## Redirect to Fulcrum version
+[[redirects]]
+  from = "/site/books/m/10.16997/book73"
+  to = "https://www.fulcrum.org/concern/monographs/w9505348p?locale=en"
+  status = 301
+
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
   #[[redirects]]
