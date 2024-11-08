@@ -988,21 +988,6 @@
 	to = "https://www.fulcrum.org/concern/monographs/6969z391k"
 	status = "301"
 
-[[redirects]]
-  from = "/site/books/m/*/"
-  to = "https://doi.org/:splat"
-  status = 301
-
-[[redirects]]
-  from = "/site/books/e/*/"
-  to = "https://doi.org/:splat"
-  status = 301
-
-[[redirects]]
-  from = "/site/books/*/"
-  to = "https://doi.org/:splat"
-  status = 301
-
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
