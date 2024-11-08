@@ -58,17 +58,17 @@
   status = 301
 
 [[redirects]]
-  from = "/site/books/m/*"
+  from = "/site/books/m/*/"
   to = "https://doi.org/:splat"
   status = 301
 
 [[redirects]]
-  from = "/site/books/e/*"
+  from = "/site/books/e/*/"
   to = "https://doi.org/:splat"
   status = 301
 
 [[redirects]]
-  from = "/site/books/*"
+  from = "/site/books/*/"
   to = "https://doi.org/:splat"
   status = 301
 
