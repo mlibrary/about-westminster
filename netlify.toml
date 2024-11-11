@@ -990,9 +990,19 @@
 ## Generic redirects
 ## Indexed searches
 [[redirects]]
-	from = "/site/search/?term=*"
-	to = "https://www.fulcrum.org/westminster?press=westminster&q=:splat"
+	from = "/site/search"
+	to = "https://www.fulcrum.org/westminster?press=westminster&q=:term"
 	status = 301
+	query = {term = ":term"}
+
+## Chapters
+[[redirects]]
+	from = "/site/chapters/*"
+	to = "https://www.fulcrum.org/westminster"
+
+[[redirects]]
+	from = "/site/books/filter/*"
+	to = "https://www.fulcrum.org/westminster"
 
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
