@@ -2,7 +2,7 @@
 templateKey: accessibility-page
 title: University of Westminster Press Accessibility Statement
 ---
-*Last Updated: 30/10/2024*
+*Last Updated: 25/11/2024*
 
 This accessibility statement applies to the [University of Westminster Press site](https://uwestminsterpress.co.uk).
 
@@ -35,15 +35,6 @@ This website is partially compliant with the [Web Content Accessibility Guidelin
 The content listed below is non-accessible for the following reasons.
 
 ### Non-compliance with the accessibility regulations
-
-- The University of Westminster logo in the footer is a link, with an internal SVG graphic. The SVG has an aria-label which is unnecessary as the parent link already has an accessible name This fails WCAG 1.1.1 Non-text Content (A).
-- Resizing text to 200% cause the vertical text on the Home page to have the top of each letter cropped This fails WCAG 1.4.4 Resize text (AA).
-- The primary logo is not responsive and causes whole-page horizontal scrolling This fails WCAG 1.4.10 Reflow (AA).
-- There is a yellow focus indicator present in the main navigation which only has a contrast of 1.2:1 against the grey background. The cards on the Home page have an indadequate contrast focus ring which is just 1.9:1 This fails WCAG 1.4.11 Non-text Contrast (AA).
-- There is no skip link present This fails WCAG 2.4.1 Bypass Blocks (A).
-- There is no secondary navigation mechanism available This fails WCAG 2.4.5 Multiple Ways (AA).
-- The University of Westminster logo in the footer lacks a focus indicator. Some images in the footer have a focus indicator that appears on an adjacent element and could be the source of confusion This fails WCAG 2.4.7 Focus Visible (AA).
-- Misuse of the aria-haspopup property, which does not have an association with an allowed element This fails WCAG 4.1.2 Name, Role, Value (A).
 
 If you find an issue that we have yet to identify, please contact us using one of the routes described in the [Feedback and contact information](#feedback) section of this statement.
 

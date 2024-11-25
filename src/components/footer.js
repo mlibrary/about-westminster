@@ -36,8 +36,15 @@ const Footer = () => {
             </div>
           </div>
           <div className="col-md-3">
-            <ul className="list-unstyled second-nav"> 
-              <li><a target="_blank" href="https://uwestminsterpress.us10.list-manage.com/subscribe?u=0f53a03f20cc4e59ad95adce8&id=fa62397bae" className="text-light">Subscribe to our Newsletter <img className="external" src="/assets/external-link-light.png" alt="opens in new tab"/></a></li>     
+            <ul className="list-unstyled second-nav text-right"> 
+              <li><a target="_blank" href="https://uwestminsterpress.us10.list-manage.com/subscribe?u=0f53a03f20cc4e59ad95adce8&id=fa62397bae" className="text-light">Subscribe to our Newsletter <img className="external" src="/assets/external-link-light.png" alt="opens in new tab"/></a></li>              
+            </ul>
+            <ul className="list-unstyled second-nav text-right"> 
+              <li><a className="text-light" href="/about">About</a></li>
+              <li><a className="text-light" href="https://fulcrum.org/westminster">Books</a></li>
+              <li><a className="text-light" href="/journals">Journals</a></li>
+              <li><a className="text-light" href="/publish-with-us">Publish With Us</a></li>
+              <li><a className="text-light" href="/news">News and Events</a></li>
             </ul>
           </div>
         </div>

@@ -388,8 +388,32 @@ header {
 
 .blog-card-container {
 
-  a:hover {
-    text-decoration: none;
+  .card-body {
+    position: relative;
+
+    a::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+    a:focus {
+      outline: initial;
+    }
+  }
+
+  .card-body:hover,
+  .card-body:focus-within {
+    outline: 3px solid $westminster-highlight;
+      outline-offset: 2px;
+      -webkit-transition: outline .05s ease-out;
+      -o-transition: outline .05s ease-out;
+      transition: outline .05s ease-out; 
   }
 
   .card-image {
