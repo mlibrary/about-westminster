@@ -1,10 +1,14 @@
 ---
 templateKey: book
-title: We Need To Talk About Climate
-authorLastname: Smith
-author: Graham Smith
-cover: assets/we-need-to-talk-about-climate-cover.png
-description: "Charts the development of climate assemblies across Europe and beyond. It explores what ordinary people want, highlighting the ways in which assembly recommendations take us beyond current government policies and offer new visions and directions for change."
+title: "Critical Communication: A Memoir"
+authorLastname: Mosco
+author: Vincent Mosco
+cover: assets/mosco.png
+description: This memoir, completed just before Vincent Mosco’s sudden death in
+  February 2024, chronicles the last half century of research, activism and
+  teaching in critical communication, technology and society from the
+  perspective of one of its pioneering figures.
 orderOnPage: 2
-readLink: https://www.fulcrum.org/concern/monographs/w9505348p?locale=en
+readLink: https://www.fulcrum.org/concern/monographs/2801pk47m?locale=en
+buyLink: https://services.publishing.umich.edu/Books/C/Critical-Communication
 ---
