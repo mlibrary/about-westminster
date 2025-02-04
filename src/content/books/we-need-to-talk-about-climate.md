@@ -1,7 +1,7 @@
 ---
 templateKey: book
-title: "Media Pasts and Futures: Critical Reflections on *Power Without
-  Responsibility*"
+title: "Media Pasts and Futures: Critical Reflections on 'Power Without
+  Responsibility'"
 authorLastname: Freedman
 author: Des Freedman and Michael Klontzas
 cover: assets/freedman_vis.jpg
