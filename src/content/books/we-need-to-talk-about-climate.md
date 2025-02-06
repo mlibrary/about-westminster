@@ -8,7 +8,7 @@ cover: assets/freedman_vis.jpg
 description: This collection of short essays from leading media scholars
   reflects on critical issues of media history, power, ownership, influence and
   impact.
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/cc08hj870?locale=en
 buyLink: https://services.publishing.umich.edu/Books/M/Media-Pasts-and-Futures2
 ---
