@@ -1,14 +1,15 @@
 ---
 templateKey: book
-title: "Media Pasts and Futures: Critical Reflections on 'Power Without
-  Responsibility'"
-authorLastname: Freedman
-author: Des Freedman and Michael Klontzas
-cover: assets/freedman_vis.jpg
-description: This collection of short essays from leading media scholars
-  reflects on critical issues of media history, power, ownership, influence and
-  impact.
+title: Challenges and Developments in Public Service Journalism
+authorLastname: D'Arma
+author: Alessandro D’Arma, Maria Michalis, Gregory Ferrell Lowe and
+  Michael-Bernhard Zita
+cover: assets/front_cover_final.jpg
+description: Challenges and Developments in Public Service Journalism, the 11th
+  RIPE Reader, examines the role of public service journalism, as well as the
+  opportunities and challenges of delivering it in today’s increasingly complex
+  and competitive digital media environment.
 orderOnPage: 2
-readLink: https://www.fulcrum.org/concern/monographs/cc08hj870?locale=en
-buyLink: https://services.publishing.umich.edu/Books/M/Media-Pasts-and-Futures2
+readLink: https://www.fulcrum.org/concern/monographs/2v23vx565?locale=en
+buyLink: https://services.publishing.umihttps://services.publishing.umich.edu/Books/C/Challenges-and-Developments-in-Public-Service-Journalism2ch.edu/Books/M/Media-Pasts-and-Futures2
 ---
