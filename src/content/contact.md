@@ -2,7 +2,7 @@
 templateKey: contact-page
 title: Contact Us
 ---
-If you are interested in publishing a new book or journal, reviewing one of our publications, or if you have a permissions/rights query, then please contact the Press Manager, Richard Baggaley, at [r.baggaley@westminster.ac.uk](mailto:r.baggaley@westminster.ac.uk)
+If you are interested in publishing a new book or journal, reviewing one of our publications, or if you have a permissions/rights query, then please contact the Press Manager, John Atkinson, at [J.Atkinson@westminster.ac.uk](mailto:r.baggaley@westminster.ac.uk)
 
 ## Book ordering information for institutional, trade, and wholesale customers
 
