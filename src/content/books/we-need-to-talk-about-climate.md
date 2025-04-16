@@ -1,15 +1,15 @@
 ---
 templateKey: book
-title: Challenges and Developments in Public Service Journalism
-authorLastname: D'Arma
-author: Alessandro D’Arma, Maria Michalis, Gregory Ferrell Lowe and
-  Michael-Bernhard Zita
-cover: assets/front_cover_final.jpg
-description: Challenges and Developments in Public Service Journalism, the 11th
-  RIPE Reader, examines the role of public service journalism, as well as the
-  opportunities and challenges of delivering it in today’s increasingly complex
-  and competitive digital media environment.
-orderOnPage: 2
-readLink: https://www.fulcrum.org/concern/monographs/2v23vx565?locale=en
-buyLink: https://services.publishing.umihttps://services.publishing.umich.edu/Books/C/Challenges-and-Developments-in-Public-Service-Journalism2ch.edu/Books/M/Media-Pasts-and-Futures2
+title: How to Create a Universe
+authorLastname: Wille
+author: Jakob Ion Wille, Simon Jon Andreasen and Gunnar Wille
+cover: assets/wille.png
+description: "How to Create a Universe helps you create and understand the
+  universes that you love from books, films, TV series and games. Through ideas,
+  reflections, drawings, conversations, theories and first-hand examples, the
+  book takes the mystery out of universe building and provides new knowledge and
+  methods for understanding and creating content for fictional universes. "
+orderOnPage: 1
+readLink: https://www.fulcrum.org/concern/monographs/td96k575f
+buyLink: https://services.publishing.umich.edu/Books/H/How-to-Create-a-Universe2
 ---
