@@ -5,7 +5,7 @@ summary: "WPCC invites submissions for its next special issue, which explores
   communication as a force of change. We are looking to shape the field and
   bring new knowledge with the most recent theoretical interventions,
   reflections on practice-based research or empirical research. "
-date: 2025-05-20T17:37:00.000Z
+date: 2025-05-20T17:43:00.000Z
 ---
 **[Click here for full details](https://www.westminsterpapers.org/news/37/)**
 
