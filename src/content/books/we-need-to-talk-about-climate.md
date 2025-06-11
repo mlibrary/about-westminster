@@ -1,15 +1,17 @@
 ---
 templateKey: book
-title: "Critique of the Political Economy of the Media: Foundations and Applications"
-authorLastname: Knoche
-author: Manfred Knoche
-cover: assets/knoche.png
-description: Critique of the Political Economy of the Media is an approach to
-  the critical analysis of the media’s role in contemporary society. It is based
-  on Karl Marx’s theory of capitalism, using a combination of critical social
-  theory and empirical social research for studying what role the media has in
-  capitalism.
+title: Fake News – What’s the harm?
+authorLastname: Cunliffe-Jones
+author: Peter Cunliffe-Jones
+cover: assets/cunliffe-jones.png
+description: Former news reporter and founder of Africa’s first fact-checking
+  organisation Peter Cunliffe-Jones argues that since concern about ‘information
+  disorder’ soared in 2016, we have laboured under flawed assumptions about the
+  nature and effects of ‘fake news’ and misinformation. Based on a four-year
+  review of 250 case studies, Cunliffe-Jones sets out four ideas for
+  fact-checkers, policymakers and platforms to curb harmful consequences and
+  protect wider freedom of speech.
 orderOnPage: 1
-readLink: https://www.fulcrum.org/concern/monographs/jq085p33n
-buyLink: https://services.publishing.umich.edu/Books/C/Critique-of-the-Political-Economy-of-the-Media
+readLink: https://www.fulcrum.org/concern/monographs/3197xq21t?locale=en
+buyLink: https://services.publishing.umich.edu/Books/F/Fake-News-What-s-the-harm
 ---
