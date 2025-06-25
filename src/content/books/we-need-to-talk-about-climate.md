@@ -11,7 +11,7 @@ description: Former news reporter and founder of Africa’s first fact-checking
   review of 250 case studies, Cunliffe-Jones sets out four ideas for
   fact-checkers, policymakers and platforms to curb harmful consequences and
   protect wider freedom of speech.
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/3197xq21t?locale=en
 buyLink: https://services.publishing.umich.edu/Books/F/Fake-News-What-s-the-harm
 ---
