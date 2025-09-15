@@ -9,7 +9,7 @@ description: "In World War and World Peace in the Age of Digital Capitalism,
   digital capitalism? How do digital capitalism and digital technologies
   manifest themselves in violence and warfare? What are the prospects for world
   peace today?"
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/jw827f85n
 buyLink: https://services.publishing.umich.edu/Books/W/World-War-and-World-Peace-in-the-Age-of-Digital-Capitalism
 ---
