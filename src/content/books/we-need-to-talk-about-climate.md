@@ -9,7 +9,7 @@ description: In The Student Guide to the Creative Studio in the Digital Age,
   experts and education specialists, introduce current and prospective learners
   to the idea of the virtual studio, exploring what it means to be creative in
   the third decade of the twenty-first century.
-orderOnPage: 2
+orderOnPage: 1
 readLink: https://www.fulcrum.org/concern/monographs/fx719r06x?locale=en
 buyLink: https://services.publishing.umich.edu/Books/T/The-Student-Guide-to-the-Creative-Studio-in-the-Digital-Age2
 ---
