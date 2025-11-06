@@ -19,6 +19,8 @@ All UWP's publications are assessed via peer review using specialist expert advi
 
 **Professor Pippa Catterall** is Professor of History and Policy at the University of Westminster and Chair of the UWP Editorial Board. She edits the journal *National Identities* and has published extensively on twentieth-century history. Her current research focuses on prime ministers and policy strategy.
 
+**John Atkinson** is the UWP Press Manager.
+
 **Dr Adrija Dey** is a UKRI Future Leader Senior Research Fellow in the Schools of Social Sciences and Media and Communications at the University of Westminster. She was previously a lecturer in digital media at the University of Sussex and British Academy post-doctoral research fellow at the Department of Development Studies, SOAS.
 
 **Lisa McLaren** is Head of Library and Archives Service at University of Westminster. She was previously Deputy Director at the professional library association SCONUL and has worked as University Librarian at Southampton Solent University.
