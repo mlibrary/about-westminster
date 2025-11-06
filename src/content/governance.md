@@ -21,10 +21,6 @@ All UWP's publications are assessed via peer review using specialist expert advi
 
 **Dr Adrija Dey** is a UKRI Future Leader Senior Research Fellow in the Schools of Social Sciences and Media and Communications at the University of Westminster. She was previously a lecturer in digital media at the University of Sussex and British Academy post-doctoral research fellow at the Department of Development Studies, SOAS.
 
-**Jenny Evans** is Research Environment and Scholarly Communications Lead at the University of Westminster with previous posts as Research Information Manager at Middlesex University, Liaison Librarian at Imperial College London and in the Library Advisory Services of the State University of Western Australia.
-
-**Professor Catherine Loveday** is Professor of Psychology at the University of Westminster. She is the author of *The Secret World of the Brain* and frequently appears as an expert psychologist on BBC Radio 4’s *All in the Mind*. Her research focuses on the neuropsychology of memory and on music in the brain. She is an active member of the British Psychology Society.
-
 **Lisa McLaren** is Head of Library and Archives Service at University of Westminster. She was previously Deputy Director at the professional library association SCONUL and has worked as University Librarian at Southampton Solent University.
 
 **Professor Guy Osborn** is Professor at Westminster Law School and is Co-Director of Centre for Law, Society and Popular Culture, Editor of the *Entertainment and Sports Law Journal* and of the Routledge Book series ‘Studies in Law, Society and Popular Culture’.
