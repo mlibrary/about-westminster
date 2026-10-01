@@ -24,10 +24,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "book" } }
     },
-    sort: {
-      fields: frontmatter___orderOnPage,
-      order: ASC
-    }
+    sort: { frontmatter: { orderOnPage: ASC } }
   ) {
     edges {
       node {
@@ -49,10 +46,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "journal" } }
     },
-    sort: {
-      fields: frontmatter___orderOnPage,
-      order: ASC
-    }
+    sort: { frontmatter: { orderOnPage: ASC } }
   ) {
     edges {
       node {
@@ -74,10 +68,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "news" } }
     },
-    sort: {
-      fields: frontmatter___date,
-      order: DESC
-    },
+    sort: { frontmatter: { date: DESC } },
     limit: 3
   ) {
     edges {
