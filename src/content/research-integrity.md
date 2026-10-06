@@ -8,7 +8,7 @@ The University of Westminster Press ensures that all editorial and peer review p
 
 All journals and book proposals or manuscripts need to meet our submissions guidelines and be a good fit for the Press's subject areas of interest, series and format strands.
 
-UWP’s Editorial Board and its advisers are fully briefed on the [Committee on Publication Ethics (COPE) best practice guidelines](https://publicationethics.org/guidance/Guidelines). All of our journals adhere to the COPE mandatory code of conduct for best practice.
+UWP’s Editorial Board and its advisers are fully briefed on the [Committee on Publication Ethics (COPE) best practice guidelines](https://publicationethics.org/guidance/Guidelines). All of our journals strive to adhere to the COPE mandatory code of conduct for best practice.
 
 ## Anti-plagiarism Checking
 
