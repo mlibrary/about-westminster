@@ -5,8 +5,6 @@ title: Tourism and the Metropolis explores the future of urban tourism – and
 summary: By Kyla Davis
 date: 2026-10-19T11:35:00.000-04:00
 ---
-![Cover image of Tourism and the Metropolis]( "Cover image of Tourism and the Metropolis")
-
 A recently published open-access book from [University of Westminster Press](https://uwestminsterpress.co.uk/) examines how tourism is reshaping metropolitan regions and why these areas deserve greater attention from researchers and policymakers. *[Tourism and the Metropolis: Exploring Conceptual and Geographical Frontiers](https://www.fulcrum.org/concern/monographs/qr46r432c?locale=en)* explores how tourism influences housing, transportation, local businesses, public spaces, and the daily lives of residents beyond city centres. 
 
 Tourism is one of the most influential industries of the 21st century, and its effects increasingly expand beyond urban centres into wider metropolitan areas. Despite its growing influence, metropolitan tourism receives surprisingly little attention from researchers compared to the abundant research on tourism in city centres. 
@@ -16,8 +14,6 @@ Tourism is one of the most influential industries of the 21st century, and its e
 # Making Research Accessible
 
 With International Open Access Week upon us, Tourism and the Metropolis highlights the importance of making academic research freely accessible to a wider audience. As an open-access publication, [the book is free to download through University of Westminster Press](https://www.fulcrum.org/concern/monographs/qr46r432c?locale=en), ensuring that these conversations reach not only academics, but also policymakers, students, industry professionals, and communities directly affected by tourism’s impact on metropolitan life. 
-
-![Dr. Maja Jović]( "Dr. Maja Jović")
 
 Dr. Maja Jović, Assistant Head and Director of Interdisciplinary and Collaboration at the University of Westminster’s School of Architecture and Cities, said making the book openly accessible was a key reason why the authors and editors chose University of Westminster Press.
 
