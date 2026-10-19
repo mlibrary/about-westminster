@@ -7,7 +7,6 @@ date: 2026-10-19T11:35:00.000-04:00
 ---
 <img src="https://www.fulcrum.org/image-service/kw52jc8041764950837/full/full/0/default.png" alt="Cover image of Tourism and the Metropolis" style="width:300px;height:px;">
 
-
 A recently published open-access book from [University of Westminster Press](https://uwestminsterpress.co.uk/) examines how tourism is reshaping metropolitan regions and why these areas deserve greater attention from researchers and policymakers. *[Tourism and the Metropolis: Exploring Conceptual and Geographical Frontiers](https://www.fulcrum.org/concern/monographs/qr46r432c?locale=en)* explores how tourism influences housing, transportation, local businesses, public spaces, and the daily lives of residents beyond city centres. 
 
 Tourism is one of the most influential industries of the 21st century, and its effects increasingly expand beyond urban centres into wider metropolitan areas. Despite its growing influence, metropolitan tourism receives surprisingly little attention from researchers compared to the abundant research on tourism in city centres. 
@@ -16,7 +15,7 @@ Tourism is one of the most influential industries of the 21st century, and its e
 
 # Making Research Accessible
 
-With International Open Access Week upon us, Tourism and the Metropolis highlights the importance of making academic research freely accessible to a wider audience. As an open-access publication, [the book is free to download through University of Westminster Press](https://www.fulcrum.org/concern/monographs/qr46r432c?locale=en), ensuring that these conversations reach not only academics, but also policymakers, students, industry professionals, and communities directly affected by tourism’s impact on metropolitan life. 
+With International Open Access Week upon us, *Tourism and the Metropolis* highlights the importance of making academic research freely accessible to a wider audience. As an open-access publication, [the book is free to download through University of Westminster Press](https://www.fulcrum.org/concern/monographs/qr46r432c?locale=en), ensuring that these conversations reach not only academics, but also policymakers, students, industry professionals, and communities directly affected by tourism’s impact on metropolitan life. 
 
 <img src="https://www.westminster.ac.uk/sites/default/public-files/styles/profile_380x380_/public/staff-profile-photos/maja-jovic.jpg?itok=3RkT67Us" alt="Dr. Maja Jović" style="width:300px;height:px;">
 
