@@ -18,7 +18,7 @@ The book I would eventually publish four years later was a close study of 250 fa
 
 At the same time, academics like me still need to pay the bills. So how could this work? The answer lies in the thinking about the audience that open access publishing enables an author like me to reach, and, if the book is sufficiently original and provides socially useful, practical ideas, how to secure funding not from the book but from developing the ideas is sets out. 
 
-![Two men sitting in front of a stage holding microphones.](assets/pcj-9.jpg "'Fake News' author Peter Cunliffe-Jones takes a question at the book launch event, June 2025. ")
+![Two men sitting in front of a stage holding microphones.](blob:https://uwestminsterpress.co.uk/2564d5ff-9ba8-4793-ab4b-eef7a1145655 "'Fake News' author Peter Cunliffe-Jones takes a question at the book launch event, June 2025. ")
 
 Since it was published in June 2025, my book, ‘Fake News – What’s the harm?’ and a previous work, published in 2021, also by University of Westminster Press, have been downloaded more than 10,000 times by researchers, journalism students and policymakers in more than 100 countries from Australia and the United States to Vietnam and Hong Kong. It has been used in universities to teach student journalists and to train fact-checkers across the Middle East. The book has been downloaded for training researchers looking into disinformation threats in the Baltics and the effects of misinformation on public health in Norway.  
 
