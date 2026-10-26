@@ -5,8 +5,7 @@ summary: After a successful first run in autumn 2025, we are repeating our ‘op
   call’ for new proposals this autumn.
 date: 2026-10-26T10:10:00.000-04:00
 ---
-![](static/assets/copy-of-uwp-covers-display-email-signature-.png)
-
+![A collage of book covers with "University of Westminster Press" in the middle](static/assets/copy-of-uwp-covers-display-email-signature-.png)
 
 A Digital-First Open Access publisher, University of Westminster Press provides a high-quality open access publication route for journals and books. Our aim is to achieve the widest and most cost-effective possible dissemination of research. Open access is central to what we do: it ensures that the potential audience is greatly expanded, helping to increase the impact of research. We also offer readers the option of purchasing our books in print at very accessible prices.
 
@@ -20,13 +19,11 @@ We aim to publish in areas that reflect the teaching and research strengths of t
 
 # The process
 
-
 All proposals will be acknowledged on receipt and by no later than 23 December. Members of the Press Editorial and Management Boards will meet within six to eight weeks of the closing date to review all proposals received. All accepted proposals and manuscripts are rigorously peer reviewed to established scholarly publishing standards.
 
 We passionately believe in the OA mission, to make excellent scholarship available free of charge to a wider readership. UWP aspires to be a ‘diamond’ OA press – that is, free to read AND free to publish without costs to the author or their host institution. 
 
 # Guidelines
-
 
 Guidelines for what is required from your proposal can be found on the [UWP website](https://uwestminsterpress.co.uk/book-proposals/).
 
