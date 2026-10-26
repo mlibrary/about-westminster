@@ -5,7 +5,7 @@ summary: After a successful first run in autumn 2025, we are repeating our ‘op
   call’ for new proposals this autumn.
 date: 2026-10-26T10:10:00.000-04:00
 ---
-![A collage of book covers with "University of Westminster Press" in the middle](static/assets/copy-of-uwp-covers-display-email-signature-.png)
+![A collage of book covers with "University of Westminster Press" in the middle](/assets/copy-of-uwp-covers-display-email-signature-.png)
 
 A Digital-First Open Access publisher, University of Westminster Press provides a high-quality open access publication route for journals and books. Our aim is to achieve the widest and most cost-effective possible dissemination of research. Open access is central to what we do: it ensures that the potential audience is greatly expanded, helping to increase the impact of research. We also offer readers the option of purchasing our books in print at very accessible prices.
 
